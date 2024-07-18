@@ -1,6 +1,8 @@
 package Exercicios_StreamsAPI.desafios.desafio17;
 
-import dev.galasso.bootcamp.dio.streamsApi.desafios.desafio14.Desafio14;
+
+
+import Exercicios_StreamsAPI.desafios.desafio14.Desafio14;
 
 import java.util.Arrays;
 import java.util.List;
